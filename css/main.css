@@ -76,12 +76,12 @@ nav ul {
 }
 
 .carousel-inner{
-    max-height: 690px;
+    max-height: 91vh;
 }
 /* Carsoul */
 .carousel-item {
     position: relative;
-    max-height: 700px;
+    max-height: 91vh;
     background-position: bottom;
 }
 
@@ -165,6 +165,8 @@ nav ul {
     font-size: 17px;
     font-weight: 600;
     color: var(--MainDarkBlueColor);
+}
+.imgBetweenText p {
     text-align: justify;
 }
 .imgBetweenText h2 {
